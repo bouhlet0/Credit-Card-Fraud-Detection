@@ -93,7 +93,7 @@ seaborn
 Install with:
 
 ```bash
-pip install numpy pandas scipy scikit-learn imbalanced-learn xgboost tensorflow matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ---
@@ -102,8 +102,8 @@ pip install numpy pandas scipy scikit-learn imbalanced-learn xgboost tensorflow 
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/bouhlet0/Credit-Card-Fraud-Detection
+cd Credit-Card-Fraud-Detection
 
 # 2. Drop the dataset in place
 mkdir -p Data
