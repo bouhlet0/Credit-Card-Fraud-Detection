@@ -74,8 +74,6 @@ Two MLP architectures (swish activations, BatchNorm, Dropout) trained with `Bina
 | MLP (BFC α=0.75) | 0.8634 |
 | FT-Transformer | 0.6381 (REQUIRES MORE TRAINING TIME) |
 
-*Fill in with your final leaderboard output.*
-
 ---
 
 ## Requirements
