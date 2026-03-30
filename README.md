@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/bouhlet0/Credit-Card-Fraud-Detection
+git clone https://github.com/bouhlet0/Credit-Card-Fraud-Detection.git
 cd Credit-Card-Fraud-Detection
 
 # 2. Drop the dataset in place
